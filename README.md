@@ -1,2 +1,3 @@
 # apk-dekstop-penitipan-kucing
-Menggunakan Netbeans
+Menggunakan Netbeans dan java language
+
